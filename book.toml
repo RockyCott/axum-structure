@@ -1,0 +1,7 @@
+[book]
+authors = ["Daniel Felipe Jaimes Blanco"]
+language = "en"
+multilingual = false
+src = "src"
+#title = "Diseñando Cimientos Sólidos: Elevando el Desarrollo con Axum en Rust a través de una Estructura Base de Archivos Optimizada"
+title = "Elevando Axum en Rust: Cimientos Sólidos con Estructura Optimal"
